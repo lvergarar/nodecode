@@ -1,5 +1,5 @@
 # Notas:
-Este es mi primer programa en Node
+Código para tabla de multiplicar
 
 ```
 Options:
